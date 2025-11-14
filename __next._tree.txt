@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+7:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+:HL["/_next/static/chunks/0a75a526f1fd0678.css","style"]
+:HL["/_next/static/media/ce62453a442c7f35-s.p.a9507876.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/brand/MayqShinLogo.png","image"]
+:HL["/gallery/1.jpeg","image"]
+:HL["/gallery/2.jpeg","image"]
+:HL["/gallery/3.jpeg","image"]
+:HL["/gallery/4.jpeg","image"]
+:HL["/gallery/5.jpeg","image"]
+:HL["/gallery/6.jpeg","image"]
+0:{"buildId":"MwaIzCBlPvpc0aKUTLwfD","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"head":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isHeadPartial":false,"staleTime":300}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"Mayqshin — Շինարարության վերահսկում"}],["$","meta","1",{"name":"description","content":"Մասնագիտական շինարարության վերահսկում և որակի ապահովման ծառայություններ։ Վստահեցնում ենք բարձրագույն որակի, անվտանգության և համապատասխանության չափանիշները շինարարական նախագծերում."}],["$","meta","2",{"name":"keywords","content":"շինարարության վերահսկում,որակի ապահովում,շինարարական զննություն,շենքերի զննություն,շինարարական անվտանգություն"}],["$","meta","3",{"property":"og:title","content":"Mayqshin — Շինարարության վերահսկում"}],["$","meta","4",{"property":"og:description","content":"Մասնագիտական շինարարության վերահսկում և որակի ապահովման ծառայություններ."}],["$","meta","5",{"property":"og:type","content":"website"}],["$","meta","6",{"name":"twitter:card","content":"summary"}],["$","meta","7",{"name":"twitter:title","content":"Mayqshin — Շինարարության վերահսկում"}],["$","meta","8",{"name":"twitter:description","content":"Մասնագիտական շինարարության վերահսկում և որակի ապահովման ծառայություններ."}],["$","link","9",{"rel":"icon","href":"/favicon.ico?favicon.29fc46d6.ico","sizes":"1024x1024","type":"image/x-icon"}],["$","$L7","10",{}]]
